@@ -1,0 +1,28 @@
+{
+  "name": "js_algorithm",
+  "version": "1.0.0",
+  "description": "algorithm written by js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lynss/js_algorithm.git"
+  },
+  "author": "lynss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lynss/js_algorithm/issues"
+  },
+  "homepage": "https://github.com/Lynss/js_algorithm#readme",
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/register": "^7.5.5"
+  }
+}
