@@ -12,5 +12,6 @@ const result = byteDanceOne(5, [1, 2, 3, 3, 5], 3, [
     [2, 4, 5],
     [3, 5, 3],
 ]);
+
 console.warn(result);
 console.assert(_.isEqual(result, [1, 0, 2]), 'byteDanceOne failed');
