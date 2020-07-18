@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Lynss/js-algorithm#readme",
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.5.5",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "husky": {
     "hooks": {
